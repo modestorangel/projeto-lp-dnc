@@ -1,2 +1,2 @@
-# projeto-lp-dnc
+# Projeto-Landing-Page
 Projeto de estudo dnc
